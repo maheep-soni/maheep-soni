@@ -1,4 +1,5 @@
-[![MasterHead](https://imgur.com/a/DHNRVmi)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://imgur.com/a/DHNRVmi)
+
 
 <h1 align="center">Hi 👋, I'm Maheep kumar</h1>
 
