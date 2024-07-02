@@ -1,4 +1,4 @@
-<img src="C:\Users\dell\Downloads\github-header-image.png">
+<img src="https://imgur.com/a/DHNRVmi">
 <h1 align="center">Hi 👋, I'm Maheep kumar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
